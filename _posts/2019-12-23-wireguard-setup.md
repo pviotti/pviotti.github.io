@@ -3,6 +3,7 @@ layout: post
 title: "How to set up a Wireguard VPN"
 date: 2019-12-23 20:00
 categories: hacks
+comments: true
 ---
 
 [WireGuard][wireguard] is a modern VPN software that uses state-of-the-art cryptographic

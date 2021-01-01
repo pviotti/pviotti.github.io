@@ -3,6 +3,7 @@ layout: post
 title: "GitHub notifications with Logic Apps"
 date: 2019-01-27 01:00
 categories: hacks
+comments: true
 ---
 
 Being the maintainer of a [small Typescript library][react-appinsights],
