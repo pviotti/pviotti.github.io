@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting up a VPN between Ubuntu and Arch with WireGuard"
+title: "How to set up a Wireguard VPN"
 date: 2019-12-23 20:00
 categories: hacks
 ---
